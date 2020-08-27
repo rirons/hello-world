@@ -28,13 +28,8 @@
      "customer_type" : "agriculture",
      "age" : 46,
      "units_sold" : 2
-     },
-         {"customer_id" : 6,
-     "customer_name" : "Joe",
-     "customer_type" : "agriculture",
-     "age" : 46,
-     "units_sold" : 2
      }
+
 
 
 
