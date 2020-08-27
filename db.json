@@ -2,31 +2,26 @@
     {"customer_id" : 1,
      "customer_name" : "Joe",
      "customer_type" : "agriculture",
-     "age" : 46,
      "units_sold" : 2
      },
          {"customer_id" : 2,
      "customer_name" : "Joe",
      "customer_type" : "agriculture",
-     "age" : 46,
      "units_sold" : 2
      },
          {"customer_id" : 3,
      "customer_name" : "Joe",
      "customer_type" : "agriculture",
-     "age" : 46,
      "units_sold" : 2
      },
          {"customer_id" : 4,
      "customer_name" : "Joe",
      "customer_type" : "agriculture",
-     "age" : 46,
      "units_sold" : 2
      },
          {"customer_id" : 5,
      "customer_name" : "Joe",
      "customer_type" : "agriculture",
-     "age" : 46,
      "units_sold" : 2
      }
 
